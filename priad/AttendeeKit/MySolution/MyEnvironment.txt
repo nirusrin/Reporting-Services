@@ -1,0 +1,21 @@
+Use the following connection properties to connect to the Azure SQL Database.
+
+SERVER NAME:
+priad.database.windows.net
+
+LOG ON TO THE SERVER:
+AUTHENTICATION:
+SQL Server Authentication
+
+USER NAME:
+readonlyuser
+
+PASSWORD:
+Pass@word1
+
+SAVE MY PASSWORD:
+(Check the checkbox to save the password)
+
+DATABASE NAME:
+(Enter the value into the dropdown list. Note: The value will not appear as an item in the dropdown list.)
+AdventureWorksDW2021-PRIAD
